@@ -1,0 +1,13 @@
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Repositories\bin\Debug\MyCRM.Repositories.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Repositories\bin\Debug\MyCRM.Repositories.pdb
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Repositories\bin\Debug\FluentNHibernate.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Repositories\bin\Debug\Iesi.Collections.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Repositories\bin\Debug\MyCRM.Model.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Repositories\bin\Debug\NHibernate.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Repositories\bin\Debug\MyCRM.Model.pdb
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Repositories\bin\Debug\FluentNHibernate.pdb
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Repositories\bin\Debug\Iesi.Collections.xml
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Repositories\bin\Debug\NHibernate.xml
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Repositories\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Repositories\obj\Debug\MyCRM.Repositories.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Repositories\obj\Debug\MyCRM.Repositories.pdb

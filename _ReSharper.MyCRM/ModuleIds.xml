@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="72E6019B-3430-4AA5-BCEF-D237CA6842C3" ModuleId="Core.Model" />
+  <Module PersistentId="4893A15D-861A-47E5-9794-E50DB1533E5C" ModuleId="MyCRM.Model.NHMappings" />
+  <Module PersistentId="518E9B60-CEB9-43B4-8A15-884E957E88C6" ModuleId="MyCRM.Repositories" />
+  <Module PersistentId="A41292CA-2313-4E17-9911-73E91547B507" ModuleId="MyCRM.Web" />
+</Modules>

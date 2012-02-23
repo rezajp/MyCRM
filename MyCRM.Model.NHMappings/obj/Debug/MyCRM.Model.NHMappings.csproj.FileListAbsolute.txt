@@ -1,0 +1,13 @@
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Model.NHMappings\bin\Debug\MyCRM.Model.NHMappings.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Model.NHMappings\bin\Debug\MyCRM.Model.NHMappings.pdb
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Model.NHMappings\bin\Debug\FluentNHibernate.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Model.NHMappings\bin\Debug\Iesi.Collections.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Model.NHMappings\bin\Debug\MyCRM.Model.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Model.NHMappings\bin\Debug\NHibernate.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Model.NHMappings\bin\Debug\MyCRM.Model.pdb
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Model.NHMappings\bin\Debug\FluentNHibernate.pdb
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Model.NHMappings\bin\Debug\Iesi.Collections.xml
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Model.NHMappings\bin\Debug\NHibernate.xml
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Model.NHMappings\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Model.NHMappings\obj\Debug\MyCRM.Model.NHMappings.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\MyCRM.Model.NHMappings\obj\Debug\MyCRM.Model.NHMappings.pdb

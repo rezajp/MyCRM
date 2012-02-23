@@ -1,0 +1,5 @@
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\Core.Model\bin\Debug\MyCRM.Model.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\Core.Model\bin\Debug\MyCRM.Model.pdb
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\Core.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\Core.Model\obj\Debug\MyCRM.Model.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\MyCRM\Core.Model\obj\Debug\MyCRM.Model.pdb

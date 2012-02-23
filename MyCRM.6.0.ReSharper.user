@@ -1,0 +1,99 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="72E6019B-3430-4AA5-BCEF-D237CA6842C3/f:Entity.cs" caret="90" fromTop="4" />
+      <File id="72E6019B-3430-4AA5-BCEF-D237CA6842C3/f:Customer.cs" caret="276" fromTop="11" />
+      <File id="A41292CA-2313-4E17-9911-73E91547B507/f:packages.config" caret="0" fromTop="0" />
+      <File id="4893A15D-861A-47E5-9794-E50DB1533E5C/f:CustomerMap.cs" caret="313" fromTop="12" />
+      <File id="72E6019B-3430-4AA5-BCEF-D237CA6842C3/f:Order.cs" caret="281" fromTop="12" />
+      <File id="4893A15D-861A-47E5-9794-E50DB1533E5C/f:OrderMap.cs" caret="396" fromTop="15" />
+      <File id="518E9B60-CEB9-43B4-8A15-884E957E88C6/f:IPagedSortableRepository.cs" caret="200" fromTop="7" />
+      <File id="518E9B60-CEB9-43B4-8A15-884E957E88C6/f:IRepository.cs" caret="182" fromTop="0" />
+      <File id="518E9B60-CEB9-43B4-8A15-884E957E88C6/f:NHibernateRepository.cs" caret="113" fromTop="4" />
+      <File id="518E9B60-CEB9-43B4-8A15-884E957E88C6/f:NHibernateSessionWrapper.cs" caret="153" fromTop="7" />
+      <File id="A41292CA-2313-4E17-9911-73E91547B507/d:Views/d:Customer/f:Index.cshtml" caret="96" fromTop="7" />
+      <File id="518E9B60-CEB9-43B4-8A15-884E957E88C6/f:SortDirection.cs" caret="125" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="72E6019B-3430-4AA5-BCEF-D237CA6842C3/f:Entity.cs" caret="90" fromTop="4" />
+      <File id="72E6019B-3430-4AA5-BCEF-D237CA6842C3/f:Customer.cs" caret="276" fromTop="11" />
+      <File id="72E6019B-3430-4AA5-BCEF-D237CA6842C3/f:Order.cs" caret="239" fromTop="10" />
+      <File id="4893A15D-861A-47E5-9794-E50DB1533E5C/f:CustomerMap.cs" caret="313" fromTop="12" />
+      <File id="4893A15D-861A-47E5-9794-E50DB1533E5C/f:OrderMap.cs" caret="445" fromTop="15" />
+      <File id="4893A15D-861A-47E5-9794-E50DB1533E5C/f:OrderMap.cs" caret="396" fromTop="15" />
+      <File id="518E9B60-CEB9-43B4-8A15-884E957E88C6/f:IPagedSortableRepository.cs" caret="93" fromTop="3" />
+      <File id="518E9B60-CEB9-43B4-8A15-884E957E88C6/f:IRepository.cs" caret="81" fromTop="3" />
+      <File id="518E9B60-CEB9-43B4-8A15-884E957E88C6/f:NHibernateRepository.cs" caret="113" fromTop="4" />
+      <File id="518E9B60-CEB9-43B4-8A15-884E957E88C6/f:NHibernateSessionWrapper.cs" caret="153" fromTop="7" />
+      <File id="518E9B60-CEB9-43B4-8A15-884E957E88C6/f:SortDirection.cs" caret="15" fromTop="0" />
+      <File id="A41292CA-2313-4E17-9911-73E91547B507/d:Views/d:Customer/f:Index.cshtml" caret="96" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="Entity" priority="63" />
+      <Item value="int" priority="62" />
+      <Item value="prop" priority="159" />
+      <Item value="string" priority="92" />
+      <Item value="IList" priority="30" />
+      <Item value="Guid`0" priority="31" />
+      <Item value="double" priority="30" />
+      <Item value="CLSCompliantAttribute`0" priority="30" />
+      <Item value="sealed" priority="61" />
+      <Item value="public" priority="63" />
+      <Item value="CustomerMap`0" priority="31" />
+      <Item value="Id`0" priority="31" />
+      <Item value="c" priority="127" />
+      <Item value="Map`0" priority="127" />
+      <Item value="HasMany`1" priority="31" />
+      <Item value="Order`0" priority="30" />
+      <Item value="OrderMap`0" priority="31" />
+      <Item value="o" priority="95" />
+      <Item value="References`1" priority="31" />
+      <Item value="MyCRM" priority="252" />
+      <Item value="foreach" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyCRM.Model.Customer">
+      <Item value="Id" priority="26" />
+      <Item value="Name" priority="27" />
+      <Item value="Address" priority="26" />
+      <Item value="Orders" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.OneToManyPart`1">
+      <Item value="Inverse`0" priority="26" />
+      <Item value="LazyLoad`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.IdentityPart">
+      <Item value="GeneratedBy" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.IdentityGenerationStrategyBuilder`1">
+      <Item value="Identity`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyCRM.Model.Order">
+      <Item value="Id" priority="26" />
+      <Item value="Description" priority="26" />
+      <Item value="Amount" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="RazorTransitionCompletionContext">
+      <Item value="foreach" priority="5" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
